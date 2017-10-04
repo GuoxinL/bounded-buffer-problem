@@ -1,4 +1,6 @@
-package pub.guoxin.bbp;
+package pub.guoxin.bbp.service;
+
+import pub.guoxin.bbp.model.Egg;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;

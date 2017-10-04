@@ -1,4 +1,4 @@
-package pub.guoxin.bbp;
+package pub.guoxin.bbp.model;
 
 /**
  * Created by guoxin on 17-10-4.

@@ -1,5 +1,9 @@
 package pub.guoxin.bbp;
 
+import pub.guoxin.bbp.service.Consumer;
+import pub.guoxin.bbp.service.EggBasket;
+import pub.guoxin.bbp.service.Producer;
+
 /**
  * Created by guoxin on 17-10-4.
  */

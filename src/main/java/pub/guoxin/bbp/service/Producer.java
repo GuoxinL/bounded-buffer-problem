@@ -1,6 +1,7 @@
-package pub.guoxin.bbp;
+package pub.guoxin.bbp.service;
 
-import com.sun.istack.internal.NotNull;
+import pub.guoxin.bbp.model.Egg;
+import pub.guoxin.bbp.utils.RandomUtil;
 
 /**
  * 生产者（鸡）

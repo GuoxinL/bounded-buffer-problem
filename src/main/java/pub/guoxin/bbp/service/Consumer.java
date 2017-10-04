@@ -1,6 +1,6 @@
-package pub.guoxin.bbp;
+package pub.guoxin.bbp.service;
 
-import com.sun.istack.internal.NotNull;
+import pub.guoxin.bbp.model.Egg;
 
 /**
  * Created by guoxin on 17-10-4.

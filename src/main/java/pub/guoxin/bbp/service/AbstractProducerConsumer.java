@@ -1,4 +1,4 @@
-package pub.guoxin.bbp;
+package pub.guoxin.bbp.service;
 
 import com.sun.istack.internal.NotNull;
 
